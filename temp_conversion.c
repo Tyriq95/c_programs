@@ -1,4 +1,4 @@
-include #<stdio.h>
+#include <stdio.h>
 
 /* Print Fahrenheit-Celsius conversion table 
    for fahr = 0, 20, ..., 300 */
